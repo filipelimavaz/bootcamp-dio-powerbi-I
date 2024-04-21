@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Logo Bootcamp" width="80">
-<h1>Santander Bootcamp2023 <br> Ciência de Dados com Python</h1>
+<h1>Python Data Analytics <br> Ciência de Dados com Python</h1>
 <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="220">
 </div>
 
